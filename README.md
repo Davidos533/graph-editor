@@ -1,6 +1,6 @@
 # graph-editor
 ## Prerequirements
-### Dependency libs
+### Dynamically linked dependencies
 + FreeType
 + GLFW
 + OpenGL
