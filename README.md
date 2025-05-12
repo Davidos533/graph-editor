@@ -1,5 +1,9 @@
 # graph-editor
 ## Prerequirements
+### Compiler
+clang
+### C++ version
+17
 ### Dynamically linked dependencies
 + FreeType
 + GLFW
